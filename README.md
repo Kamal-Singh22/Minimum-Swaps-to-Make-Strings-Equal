@@ -13,4 +13,4 @@ Every two xy mismatches can be resolved with 1 swap. Same with yx.
 
 But if we have one xy and one yx, we need 2 swaps to fix both.
 
-If total mismatches are odd, it's impossible to fix them (because one mismatch will always remain).
+If total mismatches are odd, it's impossible to fix them (because one mismatch will always remain)......
